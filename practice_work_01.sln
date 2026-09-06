@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework_01", "Homework_01\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tets", "tets\tets.vcxproj", "{D23A5E3D-F221-4E3B-A669-84C0601CDBBA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practice_work_03", "practice_work_03\practice_work_03.vcxproj", "{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D23A5E3D-F221-4E3B-A669-84C0601CDBBA}.Release|x64.Build.0 = Release|x64
 		{D23A5E3D-F221-4E3B-A669-84C0601CDBBA}.Release|x86.ActiveCfg = Release|Win32
 		{D23A5E3D-F221-4E3B-A669-84C0601CDBBA}.Release|x86.Build.0 = Release|Win32
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Debug|x64.ActiveCfg = Debug|x64
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Debug|x64.Build.0 = Debug|x64
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Debug|x86.Build.0 = Debug|Win32
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Release|x64.ActiveCfg = Release|x64
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Release|x64.Build.0 = Release|x64
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Release|x86.ActiveCfg = Release|Win32
+		{C2A6A2EB-E416-4448-BBE0-C358CA001FDA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
