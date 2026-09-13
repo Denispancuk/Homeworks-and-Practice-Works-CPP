@@ -261,4 +261,62 @@ int main()
             cout << a << " " << endl;
         }
     }
+    cout << endl;
+    cout << "Ninetenth task" << endl;
+    int number;
+    cout << "Enter integer number: ";
+    cin >> number;
+    if (number < 0)
+    {
+        number = number * -1;
+    }
+    int sum = 0, count = 0,zeros = 0, numbers = 0;
+    while (number > 0)
+    {
+        numbers = number % 10;
+        count++;
+        sum += numbers;
+        if (numbers == 0)
+        {
+            zeros++;
+        }
+        number = number / 10;
+    }
+    cout << "Count Zero: " << zeros << endl;
+    cout << "Summ number: " << sum << endl;
+    cout << "Count digit: " << count << endl;
+    cout << "Average numbers: " << sum / count << endl;
+
+    cout << "Twentyth task" << endl;
+    cout << "Enter integer number: ";
+    cin >> number;
+    if (number < 0)
+    {
+        number = number * -1;
+    }
+    for (number; number > 0; number--)
+    {
+        for (int j = 1; j <= 8; j++)
+        {
+            if (number % 2 == 0) {
+                if (j % 2 != 0)
+                {
+                    cout << "***";
+                }
+                else {
+                    cout << "___";
+                }
+            }
+            else {
+                if (j % 2 != 0)
+                {
+                    cout << "___";
+                }
+                else {
+                    cout << "***";
+                }
+            }
+        }
+        cout << endl;
+    }
 }
