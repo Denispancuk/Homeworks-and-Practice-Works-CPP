@@ -1,19 +1,18 @@
 #include <iostream>
 using namespace std;
-
+void Max(int a, int b) {
+    if (a > b)
+    {
+        cout << "Number: " << a << " is bigger" << endl;
+    }
+    else if (a < b) {
+        cout << "Number: " << b << " is bigger" << endl;
+    }
+    else {
+        cout << "Numbers are equal" << endl;
+    }
+}
 int main()
 {
-    const int SIZE = 7;
-    int arr[SIZE] = { -10,-2,0,-12,-47,-24,-3 };
-    for (int i = 0; i < SIZE; i++)
-    {
-        if (arr[i < 0]) {
-            arr[i] = arr[i] * -1;
-        }
-    }
-    cout << "List but not negative numbers: " << endl;
-    for (int i = 0; i < SIZE; i++)
-    {
-        cout << arr[i] << " ";
-    }
+    Max(20, 20);
 }
