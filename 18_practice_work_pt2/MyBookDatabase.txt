@@ -1,0 +1,10 @@
+1:Kobzar:Taras Shevchenko:Publishing House 1:Poetry:1840:250.5
+2:Tigrolovy:Ivan Bagriany:Publishing House 2:Adventure:1944:180
+3:Kaidasheva Simia:Ivan Nechuy-Levytsky:Publishing House 3:Realism:1878:150
+4:Zahar Berkut:Ivan Franko:Publishing House 4:Historical novel:1883:195.4
+5:Lisova Pisnia:Lesya Ukrainka:Publishing House 5:Drama-extravaganza:1911:210
+6:Misto:Valerian Pidmohylny:Publishing House 1:Urban novel:1928:220
+7:Chorna Rada:Panteleimon Kulish:Publishing House 2:Historical novel:1857:175.5
+8:Intermezzo:Mykhailo Kotsiubynsky:Publishing House 3:Impressionism:1908:130
+9:Marusia Churai:Lina Kostenko:Publishing House 4:Novel in verse:1979:290
+10:Shadows of Forgotten Ancestors:Mykhailo Kotsiubynsky:Publishing House 5:Novella:1911:165
